@@ -1,0 +1,16 @@
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.Form1.resources
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.csproj.GenerateResource.cache
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.AssemblyInfoInputs.cache
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.AssemblyInfo.cs
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\bin\Debug\net8.0-windows\obeb_okekHesaplama.exe
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\bin\Debug\net8.0-windows\obeb_okekHesaplama.deps.json
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\bin\Debug\net8.0-windows\obeb_okekHesaplama.runtimeconfig.json
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\bin\Debug\net8.0-windows\obeb_okekHesaplama.dll
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\bin\Debug\net8.0-windows\obeb_okekHesaplama.pdb
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.dll
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\refint\obeb_okekHesaplama.dll
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.pdb
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\obeb_okekHesaplama.genruntimeconfig.cache
+C:\Users\Meryem\source\repos\obeb_okekHesaplama\obeb_okekHesaplama\obj\Debug\net8.0-windows\ref\obeb_okekHesaplama.dll
