@@ -1,0 +1,16 @@
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\bin\Debug\net8.0-windows\rekursif_function.exe
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\bin\Debug\net8.0-windows\rekursif_function.deps.json
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\bin\Debug\net8.0-windows\rekursif_function.runtimeconfig.json
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\bin\Debug\net8.0-windows\rekursif_function.dll
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\bin\Debug\net8.0-windows\rekursif_function.pdb
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.Form1.resources
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.csproj.GenerateResource.cache
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.AssemblyInfoInputs.cache
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.AssemblyInfo.cs
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.csproj.CoreCompileInputs.cache
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.dll
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\refint\rekursif_function.dll
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.pdb
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\rekursif_function.genruntimeconfig.cache
+C:\Users\Meryem\source\repos\rekursif_function\rekursif_function\obj\Debug\net8.0-windows\ref\rekursif_function.dll
