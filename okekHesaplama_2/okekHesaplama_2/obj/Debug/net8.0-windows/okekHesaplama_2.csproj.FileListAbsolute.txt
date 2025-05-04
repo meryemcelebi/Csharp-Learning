@@ -1,0 +1,16 @@
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\bin\Debug\net8.0-windows\okekHesaplama_2.exe
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\bin\Debug\net8.0-windows\okekHesaplama_2.deps.json
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\bin\Debug\net8.0-windows\okekHesaplama_2.runtimeconfig.json
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\bin\Debug\net8.0-windows\okekHesaplama_2.dll
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\bin\Debug\net8.0-windows\okekHesaplama_2.pdb
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.Form1.resources
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.csproj.GenerateResource.cache
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.AssemblyInfoInputs.cache
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.AssemblyInfo.cs
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.csproj.CoreCompileInputs.cache
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.dll
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\refint\okekHesaplama_2.dll
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.pdb
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\okekHesaplama_2.genruntimeconfig.cache
+C:\Users\Meryem\source\repos\okekHesaplama_2\okekHesaplama_2\obj\Debug\net8.0-windows\ref\okekHesaplama_2.dll
