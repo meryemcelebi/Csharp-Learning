@@ -1,0 +1,16 @@
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\bin\Debug\net8.0-windows\siralamaAlgoritmalari.exe
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\bin\Debug\net8.0-windows\siralamaAlgoritmalari.deps.json
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\bin\Debug\net8.0-windows\siralamaAlgoritmalari.runtimeconfig.json
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\bin\Debug\net8.0-windows\siralamaAlgoritmalari.dll
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\bin\Debug\net8.0-windows\siralamaAlgoritmalari.pdb
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.Form1.resources
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.csproj.GenerateResource.cache
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.AssemblyInfoInputs.cache
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.AssemblyInfo.cs
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.csproj.CoreCompileInputs.cache
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.dll
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\refint\siralamaAlgoritmalari.dll
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.pdb
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\siralamaAlgoritmalari.genruntimeconfig.cache
+C:\Users\Meryem\source\repos\siralamaAlgoritmalari\siralamaAlgoritmalari\obj\Debug\net8.0-windows\ref\siralamaAlgoritmalari.dll
